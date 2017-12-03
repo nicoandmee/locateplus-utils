@@ -1,0 +1,7 @@
+{
+"USERNAME": "NMAA93446",
+"PASSWORD": "Jlennon2",
+"ACCOUNTNUM": "35567",
+"LAZY_LOGIN": "6",
+"LAZY_FORM": "2"
+}

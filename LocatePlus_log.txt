@@ -1,0 +1,161 @@
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: Cannot locate option with value: LA CANADA
+
+'NoneType' object has no attribute 'text'
+list index out of range
+Message: Cannot locate option with value: PLUMAS LAKE
+
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: Cannot locate option with value: LA
+
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.14393 x86_64)
+
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=62.0.3202.94)
+  (Driver info: chromedriver=2.31.488763 (092de99f48a300323ecf8c2a4e2e7cab51de5ba8),platform=Windows NT 10.0.14393 x86_64)
+
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+Message: Cannot locate option with value: ANAHEIM HILLS
+
+'NoneType' object has no attribute 'text'
+list index out of range
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+list index out of range
+Message: Cannot locate option with value:  CA
+
+Message: Cannot locate option with value:  CA
+
+Message: Cannot locate option with value:  CA 
+
+Message: Cannot locate option with value:  CA
+
+Message: Cannot locate option with value:  CA
+
+Message: Cannot locate option with value:  CA
+
+Message: Cannot locate option with value:  CA 
+
+Message: Cannot locate option with value:  CA
+
+list index out of range
+Message: Cannot locate option with value: RCH PALOS VRD
+
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: Cannot locate option with value: MANHATTAN BCH
+
+'NoneType' object has no attribute 'text'
+Message: Cannot locate option with value:  CA
+
+'NoneType' object has no attribute 'text'
+'NoneType' object has no attribute 'text'
+Message: Cannot locate option with value: RCH PALOS VRD
+
+Message: Cannot locate option with value: MANHATTAN BCH
+
+Message: Cannot locate option with value: W HOLLYWOOD
+
+'NoneType' object has no attribute 'text'
+list index out of range
