@@ -12,7 +12,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 
 
-fileName = "{}.csv".format(time())
+fileName = f"{time()}.csv"
 
 #Load login details and search query data
 with open("login_details.txt") as r:
@@ -36,7 +36,7 @@ def get_answer(text):
         answer = "Los Angeles"
     else:
         answer = "San Luis Obispo"
-    print('Answer is: {}'.format(answer))
+    print(f'Answer is: {answer}')
     return answer
 
 
